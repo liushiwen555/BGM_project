@@ -1,0 +1,13 @@
+.idea/
+.cache/
+static/
+media/
+htmlcov/
+uniform_management_platform/local_settings.py
+*.py[cd]
+.DS_Store
+gunicorn_supervisorss.log
+*/migrations/[0-9]*_*.py
+.pytest_cache
+.coverage
+assets/
